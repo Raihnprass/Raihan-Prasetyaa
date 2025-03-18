@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(blue 0%, rgb(0, 128, 255) 40%, rgb(201, 192, 255) 100%);
+    font-family: "Poppins", sans-serif;
+}
+.profil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+.profilgambar{
+    width: 200px;
+
+}
+
+.profil h2 {
+    color: white;
+}
+
+.profil h4 {
+    color: white;
+
+}
+.biodata {
+    margin-top: -100px;
+    background: linear-gradient(#ffffff 0%,#ffffffd5 40%,#ffffff00 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+
+}
+.biodata h1 {
+    font-style: bold;
+}
+.s {
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.s h1 {
+    color: white;
+}
+.s h4 {
+    color: white;
+}
+.php {
+    width: 200px;
+}
+.html{
+    width: 150px;
+}
+.css {
+    width: 150px;
+
+}
+.python {
+    width: 136px;
+}
+.figma {
+    width: 150px;
+}
+.mysql{
+    width: 200px;
+}
+.phpmyadmin{
+    width: 200px;
+}
+.projek {
+    margin-top: -73px;
+    padding-top: 55px;
+    background-color: #fff;
+}
+.projek .container .row {
+    margin-top: 50px; /* Lebih banyak jarak antara teks dan kartu */
+}
+.projek h1 {
+    color: rgb(0, 0, 0);
+}
+.projek h4 {
+    color: rgb(0, 0, 0);
+}
+.col {
+    padding-top: 50px;
+}
+.footer{
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.card {
+    margin-left: 70px;
+}
+.footer {
+    margin-top: -10px;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+    padding-top: 55px;
+}
+.sertifikat{
+    padding-top: 100px;
+}
+.card {
+    width: 15rem; /* Samakan lebar semua kartu */
+}
+
+.card img {
+    width: 100%; /* Agar gambar mengisi lebar kartu */
+    height: 200px; /* Tentukan tinggi gambar agar seragam */
+    object-fit: cover; /* Mencegah gambar menjadi gepeng atau melar */
+}
+.sertifikat h2 {
+    color: white;
+}
+.wave {
+    margin-top: -170px;
+}
+.mts {
+    margin-top: -20px;
+}
+.smk {
+    margin-top: -20px;
+}
